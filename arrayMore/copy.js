@@ -15,7 +15,7 @@ for (const product of products){
 product2[0]=85
 
 // console.log(products)
-// console.log(product2)
+console.log(product2)
 // ............................................
 
 
@@ -25,5 +25,5 @@ const numbers = [1, 2, 3, 4 ,5]
 const newNumber = [...numbers]
 newNumber.push(9)
 
-console.log(numbers)
-console.log(newNumber)
+// console.log(numbers)
+// console.log(newNumber)
